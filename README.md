@@ -14,7 +14,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Solution URL](https://github.com/four-card)
+- Solution URL: [Solution URL](https://github.com/JustShuaib/four-card)
 - Live Site URL: [live site URL](https://shuaib-four-card.netlify.app/)
 
 ## Built with
