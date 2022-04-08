@@ -510,7 +510,7 @@ body {
   font-size: 15px;
 }
 
-h2.light-header {
+.light-header {
   margin-top: 2.5rem;
   text-align: center;
   font-size: 1.5rem;
@@ -540,7 +540,7 @@ h2.bold-header {
   color: hsl(229 6% 66% / var(--tw-text-opacity));
 }
 
-main {
+.main {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 2.5rem;
@@ -551,15 +551,15 @@ main {
 }
 
 @media (min-width: 1024px) {
-  main {
+  .main {
     max-width: none;
   }
 
-  main {
+  .main {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
-  main {
+  .main {
     -moz-column-gap: 2rem;
     column-gap: 2rem;
   }
